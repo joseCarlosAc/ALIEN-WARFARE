@@ -7,4 +7,4 @@ This game is a project for a dynamic memory programming class, which is why the 
 (this project was made in October 2021)
 
 ## How to run
-for linux or macOS you onli have to compile the main.c `gcc main.c player.c TestPlayerCode.c -o main_bin -lm -pthread`
+for linux or macOS you onli have to compile the .c files `gcc main.c player.c TestPlayerCode.c -o main_bin -lm -pthread`
